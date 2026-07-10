@@ -401,4 +401,4 @@ jobs:
             --data @failure.json || true
           echo "Reported build failure (with logs) to KrossBuild."
 
-# KrossBuild workflow reindex: 2026-07-10T13:13:39.801Z
+# KrossBuild workflow reindex: 2026-07-10T15:12:30.130Z
