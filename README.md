@@ -1,39 +1,5 @@
-# Daro Tutors
+# DaroTech Tutors
 
-One-on-one tutoring in math, science, and test prep.
-
-## Getting Started
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-
-### Installation
-
-```bash
-npm install
-```
-
-### Development
-
-```bash
-npm run dev
-```
-
-### Build
-
-```bash
-npm run build
-```
-
-## Tech Stack
-
-- **React** - UI framework
-- **TypeScript** - Type safety
-- **Vite** - Build tool
-- **Tailwind CSS** - Styling
-- **Supabase** - Backend as a service
-
----
+Project-based online courses taught by industry pros.
 
 Built with ❤️ using KrossBuild
