@@ -1,6 +1,6 @@
-# Daro Tutors
+# DaroTech Tutors
 
-One-on-one tutoring in math, science, and test prep.
+Project-based online courses taught by industry pros.
 
 ## Getting Started
 
